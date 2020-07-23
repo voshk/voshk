@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-I'm voshk
-
-Love coding,
-
-Love making friends,
-
-Please contact me.
-
 <!--
 **voshk/voshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
