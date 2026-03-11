@@ -1,5 +1,8 @@
-## Hi there （你终于来啦！） 👋
+## Hi there 👋
 Nice to meet/see you!
 
-## Contact with me!（给我写封邮件吧！）
-也许你好久没看见我在github活动，但实际上，我一直从事着与代码相关的工作或者是进行着与代码相关的创作。近来有什么想法和故事想一吐为快？给我写封邮件吧！
+## Contact with me!
+Maybe you haven’t seen much activity from me on GitHub lately.
+But in reality, I’ve still been deeply involved in coding—whether through my daily work or personal creations.
+
+If you have any thoughts, ideas, or stories you’d like to share, feel free to write me an email. I’d love to hear from you.
